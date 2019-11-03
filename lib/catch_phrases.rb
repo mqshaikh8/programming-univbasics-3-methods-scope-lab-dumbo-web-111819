@@ -9,5 +9,5 @@ def toadstool
   puts status
 end
 def link
-  phrase = 
+  phrase = "Do A Barrel Roll!"
 end
