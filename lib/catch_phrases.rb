@@ -11,3 +11,7 @@ end
 def link
   phrase = "Do A Barrel Roll!"
 end
+
+def any_phrase (phrase)
+  
+end
